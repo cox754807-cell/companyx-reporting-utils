@@ -1,0 +1,17 @@
+storage:
+  aws:
+    bucket: "companyx-training-finance"
+    base_url: "https://companyx-training-finance.s3.amazonaws.com/"
+    export_path: "exports/2026/Q2/"
+    current_export: "payments_Q2_2026.csv"
+
+  azure:
+    public_invoice_container: "https://companyxtraining.blob.core.windows.net/invoices/"
+
+  gcp:
+    export_root: "https://storage.googleapis.com/companyx-training-exports/quarterly/"
+
+migration:
+  project: "Project Aurora"
+  code: "AURORA"
+  status: "in-progress"
