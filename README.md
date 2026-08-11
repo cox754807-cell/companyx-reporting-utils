@@ -5,6 +5,7 @@ Internal support utilities for the fictional **Company X** reporting and finance
 This repository is part of an authorised OSINT training environment. All company names,
 storage locations, project names and financial artefacts are fictional. No credentials
 or live private data are included.
+Company website: https://companyx.example
 
 ## Components
 - reporting service
